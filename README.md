@@ -11,4 +11,5 @@ if you want your reskin to be added to this repo dm me on discord snek pliskin#8
 >if you want to change the savant knife fully, you need to change all three versions of the slash
 
 >the sword of masters also has a projectile included that should also be changed
+
 all of the base sprites can also be downloaded here in katana-ZERO-skins-repo/sword base sprites
