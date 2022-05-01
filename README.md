@@ -12,4 +12,4 @@ if you want your reskin to be added to this repo dm me on discord snek pliskin#8
 
 >the sword of masters also has a projectile included that should also be changed
 
-all of the base sprites can also be downloaded [here](sword base sprites/)
+all of the base sprites can also be downloaded [here](.sword base sprites)
