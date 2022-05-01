@@ -1,4 +1,4 @@
-copy the folder of the sword you want to change
+copy the folder of the sword you want to change rather than editing it directly to preserve the originals
 
 the bike slash uses Zero's base katana sprites
 Pheonix edge folder contains both the flame and slash sprites
