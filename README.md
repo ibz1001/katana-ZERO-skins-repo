@@ -7,7 +7,7 @@ Patches are made to be applied to the base game, as such they are not compatible
 **always make sure to backup your data.win file before patching, you can also verify file integrity on steam to revert changes to data.win if anything goes wrong**
 
 if you want your own reskin to be added to this repo dm me on discord (snek pliskin#8677) with all of the sprites:
-  if you want to change the pheonix edge fully, you also need to change the flame sprite
-  if you want to change the savant knife fully, you need to change all three versions of the slash
-  the sword of masters also has a projectile included that should also be changed
+  \nif you want to change the pheonix edge fully, you also need to change the flame sprite
+  \nif you want to change the savant knife fully, you need to change all three versions of the slash
+  \nthe sword of masters also has a projectile included that should also be changed
 all of the original sprites can also be downloaded here in /sword base sprites
